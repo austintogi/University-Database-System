@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ClearDatabase
+comment0.text=\r\n\ University\ Database\ Project\r\n\r\n\ @author\ Austin\ Togi\r\n\ @version\ CS\ 1103\ -\ University\ Database\ Project\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=conn
+comment2.target=void\ clearDatabase(java.sql.Connection)
+comment3.params=conn
+comment3.target=java.util.List\ getTableNames(java.sql.Connection)
+comment4.params=conn\ tableNames
+comment4.target=void\ dropTables(java.sql.Connection,\ java.util.List)
+comment5.params=conn
+comment5.target=void\ createTables(java.sql.Connection)
+numComments=6

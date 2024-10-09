@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ University\ Database\ Project\r\n\r\n\ @author\ Austin\ Togi\r\n\ @version\ CS\ 1103\ -\ University\ Database\ Project\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=pageName
+comment2.target=void\ openPage(java.lang.String)
+comment3.params=s\ n
+comment3.target=java.lang.String\ padRight(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ stop()
+numComments=5
